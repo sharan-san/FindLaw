@@ -1,0 +1,295 @@
+html,body
+{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+/* Banner Starts */
+
+.banner
+{
+    background-color: rgb(1, 52, 94);
+    display: flex;
+    width: 100%;
+    padding-top: 2px;
+}
+
+.banner h1
+{
+    color:  white;
+    font-size: 50px;
+    margin-bottom: 0px;
+    
+}
+
+.banner2 li
+{
+    color:white;
+    padding: 2px;
+    
+}
+.banner2
+{
+    text-align: right;
+    padding: auto;
+    margin: auto;
+    
+   
+}
+
+.banner1
+{
+    padding: auto;
+    margin: auto;
+}
+
+.banner2 ul
+{
+    margin-bottom: 0px;
+}
+
+/* Banner Ends */
+
+
+/* Navigation Bar Starts */
+
+.nav
+{
+    display: flex;
+    
+    padding-top: 10px;
+}
+
+.nav1
+{
+    padding: auto;
+    margin: auto;
+   
+}
+
+.nav1 a
+{
+    padding-right: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.nav2
+{
+    padding: auto;
+    margin-right: 230px;
+}
+
+.nav2 button
+{
+    background-color: white;
+    border-color: rgb(121, 186, 230);
+    border-radius: 4px;
+    padding: 8px;
+    font-weight: bold;
+    color: rgb(37, 26, 97);
+    margin-bottom: 5px;
+}
+
+/* Navigation Bar Ends */
+
+
+/* Image Section Starts */
+.img img
+{
+    width: 100%;
+    
+}
+
+.img1
+{
+    text-align: center;
+}
+.img1 p
+{
+  margin-left: 220px;
+  margin-right: 220px;
+  text-align: left;
+  font-size: 19px;
+}
+
+/* Image Section Ends */
+
+/* Question Starts */
+
+.que h1
+{
+    text-align: center;
+    color: orange;
+}
+.que
+{
+    padding-top: 10px;
+    background-color: rgb(28, 79, 99);
+    padding-bottom: 60px;
+}
+
+
+.que p
+{
+    text-align: center;
+    color: white;
+}
+.que1 div
+{
+    display: inline-block;
+    padding-bottom: 20px;
+    
+  
+}
+.que1 input
+{
+    padding-right: 85px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(114, 200, 206);
+    border-color: white;
+}
+
+.que2
+{
+    margin-left: 220px;
+   
+}
+.que3
+{
+    margin-left: 25px;
+    
+}
+.que4
+{
+    margin-left: 25px;
+
+}
+
+.que5 input
+{
+   padding-left: 20px;
+    padding-right: 630px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    margin-left: 220px;
+    background-color: rgb(114, 200, 206);
+    font-size: 20px;
+}
+.que5
+{
+    padding-bottom: 20px;
+}
+.que6
+{
+    text-align: center;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 15px;
+}
+.que7 button
+{
+    margin-left: 500px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: orange;
+    border-color: white;
+}
+.que7 a
+{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.que1 ::placeholder
+{
+    color: white;
+}
+.que5 ::placeholder
+{
+    color: white;
+    font-size: 12px;
+}
+.que7 i
+{
+    font-size: 20px;
+}
+
+/* <!-- Question Ends --> */
+
+/* Map Starts */
+
+.map div
+{
+    display: inline-block;
+    padding: 30px;
+    padding-bottom: 70px;   
+
+}
+.map1
+{
+    margin-left: 190px;
+}
+.map img
+{
+    width: 191px;
+    padding-left: 38px;
+    
+}
+.map h1
+{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.map li
+{
+    padding: 2px;
+    
+}
+.map
+{
+    background-color: rgb(118, 205, 216);
+}
+
+/* Map Ends */
+.contact1 li
+{
+    display: inline-block;
+    padding: 8px;
+}
+.contact1
+{
+    padding-left: 900px;
+}
+.contact2 
+{
+  margin-left: 250px;
+}
+.contact2 a
+{
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+}
+.contact
+{
+    background-color: rgb(1, 52, 94);
+    padding-top: 5px;
+}
+.contact3
+{
+    margin-left: 250px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.contact1 i
+{
+    color: rgb(118, 205, 216);
+}
+
+/* hover effects */
